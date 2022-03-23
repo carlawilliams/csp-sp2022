@@ -1,0 +1,16 @@
+<html>
+<title>Hidden Lists</title>
+<body>
+<h1>Grocery List</h1>
+<ul>
+<li>Lemons</li>
+<li>garlic</li>
+<li>bananas</li>
+</ul>
+
+<h1>upcoming Birthdays</h1>
+<ol>
+<li>mark: mmarch 30</li>
+<li>carla: April 7</li>
+<li>Gavin: june 10</li>
+<li>Nathan: August 30</li>
